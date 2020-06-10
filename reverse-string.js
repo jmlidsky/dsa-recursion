@@ -1,4 +1,6 @@
-// Reverse String
+// 3. Reverse String
+// Write a function that reverses a string. Take a string as input, reverse the string, and return the new string.
+
 const reverseString = function(string) { // dog
   console.log(string)
   if(string.length === 0) {
